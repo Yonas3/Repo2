@@ -1,0 +1,7 @@
+23:01:26.809 [main] INFO  Academy.ValidateTitleTest - Driver is initialized
+23:01:35.464 [main] INFO  Academy.ValidateTitleTest - Navigated to homepage
+23:01:35.914 [main] INFO  Academy.ValidateTitleTest - homepage title is displayed
+23:01:35.976 [main] INFO  Academy.ValidateTitleTest - menu bar displayed
+09:18:04.522 [main] INFO  Academy.Base - restricted student
+09:18:08.379 [main] INFO  Academy.Base - none restricted student
+09:18:12.063 [main] INFO  Academy.ValidateTitleTest - Driver is initialized
